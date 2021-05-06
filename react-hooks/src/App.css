@@ -1,3 +1,18 @@
 .App {
   text-align: center;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn {
+  border: none;
+  background-color: chartreuse;
+  width: 85%;
+  height: 30px;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 0;
 }
